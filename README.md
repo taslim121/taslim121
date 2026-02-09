@@ -36,10 +36,42 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taslim121&show_icons=true&theme=default" alt="Taslim's GitHub stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taslim121&layout=compact&theme=default" alt="Top Languages" width="300"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=taslim121&theme=tokyonight" />
 </p>
 
+---
+
+### Summary Cards
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taslim121&theme=tokyonight" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taslim121&theme=tokyonight" />
+</p>
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40" alt="C/C++" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" alt="Python" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40" alt="Java" /> 
+  
+  
+  <!-- OS -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="40" alt="Linux" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="40" alt="Windows" /> 
+  <!-- Web & Mobile -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" alt="React" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" width="40" alt="React Native" />
+   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40" alt="React Native" /> 
+  
+  <!-- Backend & DB -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" alt="Node.js" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="40" alt="Express" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" alt="MongoDB" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40" alt="PostgreSQL" /> 
+</p>
 </div>
 
 <!---
